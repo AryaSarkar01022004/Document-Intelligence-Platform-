@@ -3,3 +3,4 @@
 # JournalApp
 # JournalApp
 # JournalApp
+# JournalApplication
