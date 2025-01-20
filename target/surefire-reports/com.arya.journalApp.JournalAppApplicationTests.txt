@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.arya.journalApp.JournalAppApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.074 s -- in com.arya.journalApp.JournalAppApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.532 s -- in com.arya.journalApp.JournalAppApplicationTests

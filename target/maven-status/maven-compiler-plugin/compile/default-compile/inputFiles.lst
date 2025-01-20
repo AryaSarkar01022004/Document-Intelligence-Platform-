@@ -1,4 +1,6 @@
 /Users/arya/Documents/journalApp/src/main/java/com/arya/journalApp/JournalAppApplication.java
 /Users/arya/Documents/journalApp/src/main/java/com/arya/journalApp/controller/HealthCheck.java
-/Users/arya/Documents/journalApp/src/main/java/com/arya/journalApp/controller/JournalEntryController.java
+/Users/arya/Documents/journalApp/src/main/java/com/arya/journalApp/controller/JournalEntryControllerV2.java
 /Users/arya/Documents/journalApp/src/main/java/com/arya/journalApp/entity/JournalEntry.java
+/Users/arya/Documents/journalApp/src/main/java/com/arya/journalApp/repository/JournalEntryRepository.java
+/Users/arya/Documents/journalApp/src/main/java/com/arya/journalApp/service/JournalEntryService.java

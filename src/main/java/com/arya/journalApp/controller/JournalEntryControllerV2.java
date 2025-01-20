@@ -13,9 +13,10 @@ import java.util.List;
 @RequestMapping("/journal")
 public class JournalEntryControllerV2 {
 
-
     @Autowired
-    private JournalEntryService journalEntryService;
+    private  JournalEntryService journalEntryService;
+
+
 
     @GetMapping
     public List<JournalEntry> getAll(){
